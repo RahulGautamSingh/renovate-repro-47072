@@ -1,0 +1,12 @@
+{
+  "name": "renovate-repro-47072",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "20.17.0",
+    "npm": ">=10"
+  },
+  "dependencies": {
+    "ms": "2.0.0"
+  }
+}
